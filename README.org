@@ -1,0 +1,21 @@
+#+TITLE:   dotfiles
+#+DATE:    February 9, 2020
+#+SINCE:   {replace with next tagged release version}
+#+STARTUP: inlineimages nofold
+
+* Table of Contents :TOC_3:noexport:
+- [[#description][Description]]
+- [[#dev-environments][Dev Environments]]
+
+* Description
+# A summary of what this module does.
+
++ Settings for a decent vim centric experience accross dev environments
++ See branches for files
+
+* Dev Environments
++ vscode
+  + bare bones, not comprehensive
++ linux terminal
+  + see branch ubuntu
+  + tmux and zsh
