@@ -1,0 +1,11 @@
+#+TITLE:  VSCode Settings
+#+DATE:    February 9, 2020
+#+SINCE:   {replace with next tagged release version}
+#+STARTUP: inlineimages nofold
+
+* Description
+# A summary of what this module does.
+
++ Modify the following files in VSCode:
+  + =keybindings.json=
+  + =settings.json=
